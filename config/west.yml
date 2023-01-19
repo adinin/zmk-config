@@ -2,8 +2,8 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: JoseCondeManuel
-      url-base: https://github.com/josecondemanuel
+    - name: adinin
+      url-base: https://github.com/adinin
   projects:
     - name: zmk
       remote: zmkfirmware
