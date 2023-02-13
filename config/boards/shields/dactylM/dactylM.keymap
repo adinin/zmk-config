@@ -20,10 +20,6 @@
 #define AS(keycode) &as LS(keycode) keycode
 
 / {
-        behaviors {
-        };
-
-
     keymap {
         compatible = "zmk,keymap";
 
